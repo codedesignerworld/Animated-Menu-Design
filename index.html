@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>html Buttons</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>	
+	<div class="container">
+<nav>
+		<ul class="mcd-menu">
+			<li >
+				<a href="" id="box" >
+					<i class="fa fa-home"></i>
+					<strong>Home</strong>
+					<small>Main Tab</small>
+				</a>
+			</li>
+			<li>
+				<a href="" id="box">
+					<i class="fa fa-edit"></i>
+					<strong>Gallery</strong>
+					<small>Our Posts</small>
+				</a>
+			</li>
+			<li>
+				<a href="" id="box">
+					<i class="fa fa-gift"></i>
+					<strong>About Us</strong>
+					<small>About Our Work</small>
+				</a>
+			</li>
+			<li>
+				<a href="" id="box">
+					<i class="fa fa-comments-o"></i>
+					<strong>Blog</strong>
+					<small>what they say</small>
+				</a>
+				<ul>
+					<li><a href="#"><i class="fa fa-globe"></i>Our Team</a></li>
+					<li><a href="#"><i class="fa fa-trophy"></i>Letest Posts</a></li>
+					<li><a href="#"><i class="fa fa-certificate"></i>Official</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="" id="box">
+					<i class="fa fa-picture-o"></i>
+					<strong>Portfolio</strong>
+					<small>Know About Us</small>
+				</a>
+			</li>			
+		</ul>
+	</nav>
+</div>
+</body>
+</html>
